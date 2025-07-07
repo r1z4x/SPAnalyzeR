@@ -3,6 +3,7 @@ decoded/
 beautified/
 processed/
 output/
+original/
 
 # Node.js
 node_modules/

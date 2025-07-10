@@ -1,0 +1,1538 @@
+{
+  "total_requests": 103,
+  "downloaded_files": 47,
+  "failed_downloads": {},
+  "requests_by_type": {
+    "document": 7,
+    "font": 4,
+    "image": 6,
+    "stylesheet": 16,
+    "script": 45,
+    "media": 1,
+    "fetch": 14,
+    "eventsource": 1,
+    "xhr": 7,
+    "ping": 1,
+    "other": 1
+  },
+  "requests": [
+    {
+      "url": "https://app.letsdefend.io/login",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:27.950326"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/media/4bcb60b63075eb7f-s.p.woff2",
+      "method": "GET",
+      "resource_type": "font",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "origin": "https://app.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.463310"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/media/4f05ba3a6752a328-s.p.woff2",
+      "method": "GET",
+      "resource_type": "font",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "origin": "https://app.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.464336"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect/?pid=7700833&fmt=gif",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.619187"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/81d97b2de905897c.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.620534"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/b26a1f6328a29379.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.621677"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/2b5e5b87d4956c2e.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.623263"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/66a0ed6bc016287b.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.624683"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/15067f789367f2e8.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.627414"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/8c667479e454a724.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.628533"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/7a97210b60a57f7a.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.629603"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/5e9ae8cd1269f251.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.630496"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/7f707bd928ff4f6c.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.631566"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/c16506947e04f4fa.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.632573"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/css/a7110ce1b58310bc.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.633547"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.634578"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=UA-180235701-1",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.636746"
+    },
+    {
+      "url": "https://cdn.paddle.com/paddle/paddle.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.637908"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.639566"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/webpack-59b3805372025b5f.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.735359"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/fd9d1056-5ed0175c01188b45.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.736878"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/1582-74f25d01fc1621bc.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.738235"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/main-app-7dc051ce221219f7.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.739903"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/1444-02039f1bca56a2b6.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.741688"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/231-d41a88eeecf128cc.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.743512"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/8173-a28965e1a4750447.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.745315"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/app/not-found-31bf4f0b491a9fa3.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.747729"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/39209d7c-db5d6daf05b7181d.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.749761"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/9081a741-b6df0ea9d9fbbbf0.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.751457"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/a63740d3-c0a9972f03014a5c.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.753096"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/41ade5dc-8ce4c754f3112904.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.754700"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/c857e369-2f7de81f63fa1df7.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.756439"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/51-d233dd1bc1034aff.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.758674"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/8222-d298fcb6b75f89be.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.760763"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/4036-3bf1d497e9d063c1.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.762160"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/9950-fd690983ea51d04e.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.763323"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/804-faf85949eb850036.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.764599"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/3678-e989d559dc300e74.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.765990"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/229-6c661ccbeb82e929.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.767378"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/5956-99ec510be794686c.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.769359"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/9334-89b89cd6150598d4.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.771084"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/2086-19cc457a9f864806.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.772630"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/app/layout-55f585de71fd0904.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.774270"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/static/chunks/app/error-e1fb17fb4250e263.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.776356"
+    },
+    {
+      "url": "https://app.letsdefend.io/_next/image?url=https%3A%2F%2Fapp-ld-img.s3.us-east-2.amazonaws.com%2Fcommon%2Ferror.png&w=640&q=75",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.779090"
+    },
+    {
+      "url": "https://app.letsdefend.io/sounds/popup-sound.mp3",
+      "method": "GET",
+      "resource_type": "media",
+      "headers": {
+        "accept": "*/*",
+        "accept-encoding": "identity;q=1, *;q=0",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "range": "bytes=0-",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.780962"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MNNZJFD",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.788943"
+    },
+    {
+      "url": "https://js.stripe.com/v3",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.823179"
+    },
+    {
+      "url": "https://cdn.growthbook.io/api/features/sdk-rOaty47eXpY4iYH",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.824253"
+    },
+    {
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.836033"
+    },
+    {
+      "url": "https://assets.churnkey.co/js/app.js?appId=39mia6jwu",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.840762"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api.js?render=6Ldzrv8aAAAAACWlCPVczCDNZMDpg9WqzW8mxoGM&hl=en",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.844473"
+    },
+    {
+      "url": "https://app.letsdefend.io/api/auth/session",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "content-type": "application/json",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjQ0NjY2OTciLCJhcCI6IjEzODYyMDU3ODgiLCJpZCI6IjlkOGI2MzM3N2IyNmNmZDciLCJ0ciI6ImIzMDAzZDMwYjZmZjFhNjBkZDAzZDU1NzEwMWJmY2RiIiwidGkiOjE3NTIxNDExNDg4NDJ9fQ==",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "traceparent": "00-b3003d30b6ff1a60dd03d557101bfcdb-9d8b63377b26cfd7-01",
+        "tracestate": "4466697@nr=0-1-4466697-1386205788-9d8b63377b26cfd7----1752141148842"
+      },
+      "timestamp": "2025-07-10T12:52:28.847327"
+    },
+    {
+      "url": "https://cdn.paddle.com/paddle/assets/css/animate.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.877990"
+    },
+    {
+      "url": "https://cdn.paddle.com/paddle/assets/css/paddle.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.879242"
+    },
+    {
+      "url": "https://app.letsdefend.io/?_rsc=hpsh4",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "*/*",
+        "cookie": "next-auth.csrf-token=e7b83d547ff51a97a94c36db80436739fe20261949b93b081d0171be3499dd6e%7C363ec366bcb2073ed21f9206c205203b4a00e4ade66453270581e3d56e5334a2; __Secure-authjs.callback-url=https%3A%2F%2Fdev-frontend.letsdefend.io",
+        "referer": "https://app.letsdefend.io/login",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjQ0NjY2OTciLCJhcCI6IjEzODYyMDU3ODgiLCJpZCI6Ijk5OTIzYWVjZDcxYzg2MTgiLCJ0ciI6ImZhZTU5ZjcyMDQxMGJmYmQ5N2I2NjJiMGQ0M2JiYjM0IiwidGkiOjE3NTIxNDExNDg4Nzh9fQ==",
+        "next-router-prefetch": "1",
+        "next-router-state-tree": "%5B%22%22%2C%7B%22children%22%3A%5B%22%2F_not-found%22%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2C%22%2Flogin%22%2C%22refresh%22%5D%7D%5D%7D%2Cnull%2Cnull%2Ctrue%5D",
+        "next-url": "/_not-found",
+        "rsc": "1",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "traceparent": "00-fae59f720410bfbd97b662b0d43bbb34-99923aecd71c8618-01",
+        "tracestate": "4466697@nr=0-1-4466697-1386205788-99923aecd71c8618----1752141148878"
+      },
+      "timestamp": "2025-07-10T12:52:28.881035"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-HSKZYXTX40&cx=c&gtm=457e5781za200&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104909302~104909304~104935091~104935093",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.968727"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:28.969655"
+    },
+    {
+      "url": "https://assets.churnkey.co/css/app.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.058615"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/_cn5mBoBXIA0_T7xBjxkUqUA/recaptcha__en.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "origin": "https://app.letsdefend.io",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.067146"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?en=page_view&dl=https%3A%2F%2Fapp.letsdefend.io%2Flogin&scrsrc=www.googletagmanager.com&frm=0&rnd=1246556598.1752141149&dt=LetsDefend&auid=663707535.1752141149&navt=n&npa=0&gtm=45He5790h2v857081735za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104909302~104909304~104935091~104935093&tft=1752141149073&tfd=1125&apve=1&apvf=f",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.077534"
+    },
+    {
+      "url": "https://cdn.growthbook.io/sub/sdk-rOaty47eXpY4iYH",
+      "method": "GET",
+      "resource_type": "eventsource",
+      "headers": {
+        "accept": "text/event-stream",
+        "cache-control": "no-cache",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.081114"
+    },
+    {
+      "url": "https://www.googletagmanager.com/static/service_worker/5770/sw_iframe.html?origin=https%3A%2F%2Fapp.letsdefend.io",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.082395"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/attribution_trigger?pid=7700833&time=1752141149121&url=https%3A%2F%2Fapp.letsdefend.io%2Flogin",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "accept": "*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.125447"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7700833&time=1752141149121&url=https%3A%2F%2Fapp.letsdefend.io%2Flogin",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "cookie": "li_sugr=b54ec889-143d-4ab3-8dd9-6ab40332901b; bcookie=\"v=2&2705dc3a-5440-498c-8a9f-dc24f5cc934f\"; lidc=\"b=TGST00:s=T:r=T:a=T:p=T:g=3687:u=1:x=1:i=1752141148:t=1752227548:v=2:sig=AQHUZXNdxoHTGY69LNnBr4j5yZukS-lr\"",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.126944"
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1505023238&t=pageview&_s=1&dl=https%3A%2F%2Fapp.letsdefend.io%2Flogin&dp=%2Flogin&ul=en-us&de=UTF-8&dt=LetsDefend&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&_u=YEBAAUABAAAAACAAI~&jid=208180369&gjid=759717873&cid=1127831191.1752141149&tid=UA-180235701-1&_gid=430532322.1752141149&_r=1&gtm=457e5781za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104909302~104909304~104935091~104935093&z=1139025930",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "accept": "*/*",
+        "content-type": "text/plain",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.142106"
+    },
+    {
+      "url": "https://www.google-analytics.com/collect?v=1&_v=j101&a=1505023238&t=pageview&_s=2&dl=https%3A%2F%2Fapp.letsdefend.io%2Flogin&dp=%2Flogin&ul=en-us&de=UTF-8&dt=LetsDefend&sd=24-bit&sr=1920x1080&vp=1920x1080&je=0&_u=YEBAAUABAAAAACAAI~&jid=&gjid=&cid=1127831191.1752141149&tid=UA-180235701-1&_gid=430532322.1752141149&gtm=457e5781za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104909302~104909304~104935091~104935093&z=634241767",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.142936"
+    },
+    {
+      "url": "https://js.stripe.com/v3/controller-with-preconnect-6794fb741b34f34bbd992ef5cdea98c7.html",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "referer": "https://app.letsdefend.io/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.214847"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-HSKZYXTX40&gtm=45je5781v880989509za200&_p=1752141148787&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104908321~104908323~104909302~104909304~104935091~104935093&cid=1127831191.1752141149&ecid=173268208&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.23%7CHeadlessChrome%3B138.0.7204.23&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&are=1&frm=0&pscdl=noapi&ec_mode=a&_eu=AAAI&_s=1&sid=1752141149&sct=1&seg=0&dl=https%3A%2F%2Fapp.letsdefend.io%2Flogin&dt=LetsDefend&en=page_view&_fv=1&_ss=1&tfd=1289",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.258459"
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-HSKZYXTX40&cid=1127831191.1752141149&gtm=45je5781v880989509za200&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104908321~104908323~104909302~104909304~104935091~104935093",
+      "method": "POST",
+      "resource_type": "ping",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.259473"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-HSKZYXTX40&gtm=45je5781v880989509z8857081735za200&_p=1752141148787&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104908321~104908323~104909302~104909304~104935091~104935093&cid=1127831191.1752141149&ecid=173268208&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.23%7CHeadlessChrome%3B138.0.7204.23&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&are=1&frm=0&pscdl=noapi&ec_mode=a&_eu=AAAKAAQ&_s=2&sid=1752141149&sct=1&seg=1&dl=https%3A%2F%2Fapp.letsdefend.io%2Flogin&dt=LetsDefend&en=page_view&_et=19&tfd=1309",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.260356"
+    },
+    {
+      "url": "https://www.google.com.tr/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-HSKZYXTX40&cid=1127831191.1752141149&gtm=45je5781v880989509za200&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104908321~104908323~104909302~104909304~104935091~104935093&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104908321~104908323~104909302~104909304~104935091~104935093&z=843540643",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.261551"
+    },
+    {
+      "url": "https://js.stripe.com/v3/fingerprinted/js/shared-29d83e6dce5d23438c5f74a025ccf6d8.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://js.stripe.com/v3/controller-with-preconnect-6794fb741b34f34bbd992ef5cdea98c7.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.311511"
+    },
+    {
+      "url": "https://js.stripe.com/v3/fingerprinted/js/controller-with-preconnect-176e7bfec430abfa931827620d3a888a.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://js.stripe.com/v3/controller-with-preconnect-6794fb741b34f34bbd992ef5cdea98c7.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.312864"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ldzrv8aAAAAACWlCPVczCDNZMDpg9WqzW8mxoGM&co=aHR0cHM6Ly9hcHAubGV0c2RlZmVuZC5pbzo0NDM.&hl=en&v=_cn5mBoBXIA0_T7xBjxkUqUA&size=invisible&cb=4m8eaht6v0wg",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "referer": "https://app.letsdefend.io/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.376062"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/_cn5mBoBXIA0_T7xBjxkUqUA/styles__ltr.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "accept": "text/css,*/*;q=0.1",
+        "referer": "https://www.google.com/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.477648"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/_cn5mBoBXIA0_T7xBjxkUqUA/recaptcha__en.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://www.google.com/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.478469"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=_cn5mBoBXIA0_T7xBjxkUqUA",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ldzrv8aAAAAACWlCPVczCDNZMDpg9WqzW8mxoGM&co=aHR0cHM6Ly9hcHAubGV0c2RlZmVuZC5pbzo0NDM.&hl=en&v=_cn5mBoBXIA0_T7xBjxkUqUA&size=invisible&cb=4m8eaht6v0wg",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2025-07-10T12:52:29.604554"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "referer": "https://www.gstatic.com/recaptcha/releases/_cn5mBoBXIA0_T7xBjxkUqUA/styles__ltr.css",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.608678"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2",
+      "method": "GET",
+      "resource_type": "font",
+      "headers": {
+        "accept": "*/*",
+        "origin": "https://www.google.com",
+        "referer": "https://www.google.com/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.609923"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
+      "method": "GET",
+      "resource_type": "font",
+      "headers": {
+        "accept": "*/*",
+        "origin": "https://www.google.com",
+        "referer": "https://www.google.com/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.610772"
+    },
+    {
+      "url": "https://js.stripe.com/v3/.deploy_status_henson.json",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "application/json",
+        "content-type": "application/x-www-form-urlencoded",
+        "referer": "https://js.stripe.com/v3/controller-with-preconnect-6794fb741b34f34bbd992ef5cdea98c7.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.638645"
+    },
+    {
+      "url": "https://js.stripe.com/v3/.deploy_status_henson.json",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "application/json",
+        "content-type": "application/x-www-form-urlencoded",
+        "referer": "https://js.stripe.com/v3/controller-with-preconnect-6794fb741b34f34bbd992ef5cdea98c7.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.640269"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/_cn5mBoBXIA0_T7xBjxkUqUA/recaptcha__en.js",
+      "method": "GET",
+      "resource_type": "other",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://www.google.com/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      },
+      "timestamp": "2025-07-10T12:52:29.684105"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/wa/",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "accept": "*",
+        "content-type": "text/plain;charset=UTF-8",
+        "cookie": "li_sugr=b54ec889-143d-4ab3-8dd9-6ab40332901b; bcookie=\"v=2&2705dc3a-5440-498c-8a9f-dc24f5cc934f\"; lidc=\"b=TGST00:s=T:r=T:a=T:p=T:g=3687:u=1:x=1:i=1752141148:t=1752227548:v=2:sig=AQHUZXNdxoHTGY69LNnBr4j5yZukS-lr\"; ar_debug=1; UserMatchHistory=AQIoDcuvfkblFwAAAZfzwDSEkII07tppoq4JMU1KrKbXjBWQ4N47aB5ouozf7x581Dq6xjSC7-j8jw; AnalyticsSyncHistory=AQKmobjGSQS6DgAAAZfzwDSES9GGzwLiW4xvohgycnsbgTozkUg6338Q-KLy_RPIe6RQCg9o8X0qz-2MnLdN2g; __cf_bm=GK.zdWlBgh25b88Q2trEtq94_Vrth3VcChGfaHlkJqg-1752141149-1.0.1.1-N.cBjXlOrHy4HYD8MKo7IF1Xm4L_roLnzZw0gPAu.EqnaEuL2EnSAC8WHHrUdH0z9PJScI49AA6iJXMuF92SwDfud1jPyUq.gQ4dZGh3kcE",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.841352"
+    },
+    {
+      "url": "https://js-agent.newrelic.com/nr-spa-1.293.0.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "origin": "https://app.letsdefend.io",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.842177"
+    },
+    {
+      "url": "https://js.stripe.com/v3/outer-logger-a9199042072ac95f2d1b2a4da0f9f7a5.html",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "referer": "https://app.letsdefend.io/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.843526"
+    },
+    {
+      "url": "https://js.stripe.com/v3/fingerprinted/js/outer-logger-2f3264726454ad8247aadc6df61d886c.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://js.stripe.com/v3/outer-logger-a9199042072ac95f2d1b2a4da0f9f7a5.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.907645"
+    },
+    {
+      "url": "https://js.stripe.com/v3/.deploy_status_henson.json",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "application/json",
+        "content-type": "application/x-www-form-urlencoded",
+        "referer": "https://js.stripe.com/v3/outer-logger-a9199042072ac95f2d1b2a4da0f9f7a5.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:29.978462"
+    },
+    {
+      "url": "https://bam.nr-data.net/1/NRJS-f93d58bf8e63514c841?a=1384377101&v=1.293.0&to=MVZaYUYDVxcDU0ZRXQgcdlpGD1gIC0pXXGcUWhcf&rst=2383&ck=0&s=84745a66086655dc&ref=https://app.letsdefend.io/login&ptid=b38178713cb1f34a&tt=0f73425cb7101dc5&af=err,spa,xhr,stn,ins&ap=12.996201&be=511&fe=1382&dc=288&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1752141147948,%22n%22:0,%22dn%22:5,%22dne%22:7,%22c%22:7,%22s%22:39,%22ce%22:99,%22rq%22:99,%22rp%22:511,%22rpe%22:667,%22di%22:799,%22ds%22:799,%22de%22:799,%22dc%22:1891,%22l%22:1891,%22le%22:1893%7D,%22navigation%22:%7B%7D%7D&fp=804&fcp=804",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "content-type": "text/plain",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:30.333205"
+    },
+    {
+      "url": "https://bam.nr-data.net/browser/blobs?browser_monitoring_key=NRJS-f93d58bf8e63514c841&type=BrowserSessionChunk&app_id=1384377101&protocol_version=0&timestamp=1752141148191&attributes=entityGuid%3DNDQ2NjY5N3xCUk9XU0VSfEFQUExJQ0FUSU9OfDEzODYyMDU3ODg%26harvestId%3D84745a66086655dc_b38178713cb1f34a_1%26trace.firstTimestamp%3D1752141148191%26trace.lastTimestamp%3D1752141150084%26trace.nodes%3D27%26trace.originTimestamp%3D1752141148191%26agentVersion%3D1.293.0%26firstSessionHarvest%3Dtrue%26ptid%3Db38178713cb1f34a%26session%3D84745a66086655dc%26currentUrl%3Dhttps://app.letsdefend.io/login",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "content-type": "text/plain",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:30.820773"
+    },
+    {
+      "url": "https://bam.nr-data.net/events/1/NRJS-f93d58bf8e63514c841?a=1384377101&v=1.293.0&to=MVZaYUYDVxcDU0ZRXQgcdlpGD1gIC0pXXGcUWhcf&rst=2874&ck=0&s=84745a66086655dc&ref=https://app.letsdefend.io/login&ptid=b38178713cb1f34a&ht=1",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "content-type": "text/plain",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:30.824277"
+    },
+    {
+      "url": "https://r.stripe.com/b",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "application/json",
+        "content-type": "application/x-www-form-urlencoded",
+        "referer": "https://js.stripe.com/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:30.937715"
+    },
+    {
+      "url": "https://r.stripe.com/b",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "application/json",
+        "content-type": "application/x-www-form-urlencoded",
+        "referer": "https://js.stripe.com/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:30.939540"
+    },
+    {
+      "url": "https://r.stripe.com/b",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "application/json",
+        "content-type": "application/x-www-form-urlencoded",
+        "referer": "https://js.stripe.com/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:31.130520"
+    },
+    {
+      "url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "referer": "https://app.letsdefend.io/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:34.213694"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-HSKZYXTX40&gtm=45je5781v880989509za200&_p=1752141148787&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104908321~104908323~104909302~104909304~104935091~104935093&cid=1127831191.1752141149&ecid=173268208&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.23%7CHeadlessChrome%3B138.0.7204.23&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AEAIAAQ&_s=3&sid=1752141149&sct=1&seg=1&dl=https%3A%2F%2Fapp.letsdefend.io%2Flogin&dt=LetsDefend&en=scroll&epn.percent_scrolled=90&_et=4&tfd=6316",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:34.265242"
+    },
+    {
+      "url": "https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:34.280035"
+    },
+    {
+      "url": "https://m.stripe.network/inner.html",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "referer": "https://js.stripe.com/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:34.344759"
+    },
+    {
+      "url": "https://m.stripe.network/out-4.5.44.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://m.stripe.network/inner.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:34.443536"
+    },
+    {
+      "url": "https://m.stripe.com/6",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "accept": "*/*",
+        "content-type": "text/plain;charset=UTF-8",
+        "referer": "https://m.stripe.network/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:34.562916"
+    },
+    {
+      "url": "https://js.stripe.com/v3/fingerprinted/js/trusted-types-checker-efd8cf45ce422659c098993bfc62531b.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*",
+        "referer": "https://app.letsdefend.io/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:34.847793"
+    },
+    {
+      "url": "https://r.stripe.com/b",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "accept": "application/json",
+        "content-type": "application/x-www-form-urlencoded",
+        "referer": "https://js.stripe.com/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"HeadlessChrome\";v=\"138\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "timestamp": "2025-07-10T12:52:36.303040"
+    }
+  ]
+}

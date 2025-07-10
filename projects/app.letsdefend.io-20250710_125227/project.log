@@ -1,0 +1,194 @@
+2025-07-10 12:52:27,604 - INFO - Analysis started for URL: https://app.letsdefend.io/login
+2025-07-10 12:52:27,604 - INFO - Project directory: projects/app.letsdefend.io-20250710_125227
+2025-07-10 12:52:27,604 - INFO - Starting asset download...
+2025-07-10 12:52:27,946 - INFO - Browser started for URL: https://app.letsdefend.io/login
+2025-07-10 12:52:27,946 - INFO - Navigating to: https://app.letsdefend.io/login
+2025-07-10 12:52:28,751 - INFO - Downloaded: paddle/paddle.js (231310 bytes)
+2025-07-10 12:52:28,759 - INFO - Downloaded: ajax/libs/highlight.js/8.4/highlight.min.js (37037 bytes)
+2025-07-10 12:52:28,846 - INFO - Downloaded: _next/static/chunks/webpack-59b3805372025b5f.js (8386 bytes)
+2025-07-10 12:52:28,846 - INFO - Downloaded: _next/static/chunks/1582-74f25d01fc1621bc.js (123727 bytes)
+2025-07-10 12:52:28,847 - INFO - Downloaded: _next/static/chunks/main-app-7dc051ce221219f7.js (475 bytes)
+2025-07-10 12:52:28,850 - INFO - Downloaded: _next/static/chunks/app/not-found-31bf4f0b491a9fa3.js (12658 bytes)
+2025-07-10 12:52:28,850 - INFO - Downloaded: _next/static/chunks/c857e369-2f7de81f63fa1df7.js (142372 bytes)
+2025-07-10 12:52:28,850 - INFO - Downloaded: _next/static/chunks/a63740d3-c0a9972f03014a5c.js (43753 bytes)
+2025-07-10 12:52:28,851 - INFO - Downloaded: _next/static/chunks/fd9d1056-5ed0175c01188b45.js (172834 bytes)
+2025-07-10 12:52:28,859 - INFO - Downloaded: _next/static/chunks/51-d233dd1bc1034aff.js (10640 bytes)
+2025-07-10 12:52:28,862 - INFO - Downloaded: _next/static/chunks/1444-02039f1bca56a2b6.js (4403 bytes)
+2025-07-10 12:52:28,862 - INFO - Downloaded: _next/static/chunks/8173-a28965e1a4750447.js (13068 bytes)
+2025-07-10 12:52:28,862 - INFO - Downloaded: _next/static/chunks/9950-fd690983ea51d04e.js (20162 bytes)
+2025-07-10 12:52:28,863 - INFO - Downloaded: _next/static/chunks/39209d7c-db5d6daf05b7181d.js (584 bytes)
+2025-07-10 12:52:28,863 - INFO - Downloaded: _next/static/chunks/231-d41a88eeecf128cc.js (20596 bytes)
+2025-07-10 12:52:28,865 - INFO - Downloaded: _next/static/chunks/41ade5dc-8ce4c754f3112904.js (76650 bytes)
+2025-07-10 12:52:28,865 - INFO - Downloaded: _next/static/chunks/9081a741-b6df0ea9d9fbbbf0.js (10240 bytes)
+2025-07-10 12:52:28,866 - INFO - Downloaded: _next/static/chunks/4036-3bf1d497e9d063c1.js (25772 bytes)
+2025-07-10 12:52:28,867 - INFO - Downloaded: _next/static/chunks/5956-99ec510be794686c.js (15648 bytes)
+2025-07-10 12:52:28,867 - INFO - Downloaded: _next/static/chunks/804-faf85949eb850036.js (40115 bytes)
+2025-07-10 12:52:28,867 - INFO - Downloaded: _next/static/chunks/3678-e989d559dc300e74.js (6722 bytes)
+2025-07-10 12:52:28,870 - INFO - Downloaded: _next/static/chunks/8222-d298fcb6b75f89be.js (44473 bytes)
+2025-07-10 12:52:28,873 - INFO - Downloaded: _next/static/chunks/2086-19cc457a9f864806.js (28914 bytes)
+2025-07-10 12:52:28,877 - INFO - Downloaded: _next/static/chunks/9334-89b89cd6150598d4.js (54215 bytes)
+2025-07-10 12:52:28,877 - INFO - Downloaded: _next/static/chunks/app/error-e1fb17fb4250e263.js (8094 bytes)
+2025-07-10 12:52:28,883 - INFO - Downloaded: _next/static/chunks/app/layout-55f585de71fd0904.js (62517 bytes)
+2025-07-10 12:52:28,898 - INFO - Downloaded: _next/static/chunks/229-6c661ccbeb82e929.js (8768 bytes)
+2025-07-10 12:52:29,028 - INFO - Downloaded: recaptcha/api_18793262.js (1051 bytes)
+2025-07-10 12:52:29,095 - INFO - Downloaded: li.lms-analytics/insight.min.js (41559 bytes)
+2025-07-10 12:52:29,099 - INFO - Downloaded: js/app_52107819.js (1373147 bytes)
+2025-07-10 12:52:29,159 - INFO - Downloaded: analytics.js (52916 bytes)
+2025-07-10 12:52:29,217 - INFO - Downloaded: gtm_77503017.js (361150 bytes)
+2025-07-10 12:52:29,244 - INFO - Downloaded: static/service_worker/5770/sw_iframe_37880827.html (3545 bytes)
+2025-07-10 12:52:29,361 - INFO - Downloaded: recaptcha/releases/_cn5mBoBXIA0_T7xBjxkUqUA/recaptcha__en.js (791775 bytes)
+2025-07-10 12:52:29,406 - INFO - Downloaded: v3/controller-with-preconnect-6794fb741b34f34bbd992ef5cdea98c7.html (667 bytes)
+2025-07-10 12:52:29,636 - INFO - Downloaded: v3/fingerprinted/js/shared-29d83e6dce5d23438c5f74a025ccf6d8.js (737958 bytes)
+2025-07-10 12:52:29,658 - INFO - Downloaded: v3/fingerprinted/js/controller-with-preconnect-176e7bfec430abfa931827620d3a888a.js (1029658 bytes)
+2025-07-10 12:52:29,810 - INFO - Downloaded: recaptcha/api2/webworker_02820450.js (102 bytes)
+2025-07-10 12:52:29,830 - INFO - Downloaded: v3/.deploy_status_henson.json (474 bytes)
+2025-07-10 12:52:30,053 - INFO - Downloaded: nr-spa-1.293.0.min.js (116841 bytes)
+2025-07-10 12:52:30,077 - INFO - Downloaded: v3/.deploy_status_henson.json (474 bytes)
+2025-07-10 12:52:30,273 - INFO - Downloaded: v3/outer-logger-a9199042072ac95f2d1b2a4da0f9f7a5.html (182 bytes)
+2025-07-10 12:52:30,353 - INFO - Downloaded: v3/fingerprinted/js/outer-logger-2f3264726454ad8247aadc6df61d886c.js (53696 bytes)
+2025-07-10 12:52:34,400 - INFO - Downloaded: v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html (200 bytes)
+2025-07-10 12:52:34,564 - INFO - Downloaded: inner.html (930 bytes)
+2025-07-10 12:52:34,715 - INFO - Downloaded: v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js (526 bytes)
+2025-07-10 12:52:34,879 - INFO - Downloaded: out-4.5.44.js (88793 bytes)
+2025-07-10 12:52:35,036 - INFO - Downloaded: v3/fingerprinted/js/trusted-types-checker-efd8cf45ce422659c098993bfc62531b.js (176 bytes)
+2025-07-10 12:52:35,790 - INFO - Page navigation and waiting completed
+2025-07-10 12:52:35,790 - INFO - Waiting for downloads to complete...
+2025-07-10 12:52:40,798 - INFO - Network summary saved to: projects/app.letsdefend.io-20250710_125227/assets/network_summary.json
+2025-07-10 12:52:40,834 - INFO - Browser cleanup completed
+2025-07-10 12:52:40,834 - INFO - Asset download complete. 47 files downloaded.
+2025-07-10 12:52:40,835 - INFO - Processing JS/TS assets...
+2025-07-10 12:52:40,841 - INFO - Obfuscation detected in analytics.js: ['obfuscator_io', 'string_encoding', 'eval_patterns', 'minification']
+2025-07-10 12:52:40,849 - INFO - Obfuscation detected in nr-spa-1.293.0.min.js: ['eval_patterns', 'minification']
+2025-07-10 12:52:40,853 - INFO - Obfuscation detected in out-4.5.44.js: ['obfuscator_io', 'eval_patterns', 'minification']
+2025-07-10 12:52:40,868 - INFO - Obfuscation detected in 9081a741-b6df0ea9d9fbbbf0.js: ['minification']
+2025-07-10 12:52:40,868 - INFO - Obfuscation detected in 39209d7c-db5d6daf05b7181d.js: ['minification']
+2025-07-10 12:52:40,878 - INFO - Obfuscation detected in api_18793262.js: ['minification']
+2025-07-10 12:52:40,878 - INFO - Obfuscation detected in gtm_77503017.js: ['obfuscator_io', 'string_encoding', 'eval_patterns', 'minification']
+2025-07-10 12:52:40,894 - INFO - Obfuscation detected in paddle.js: ['obfuscator_io', 'string_encoding', 'eval_patterns', 'minification']
+2025-07-10 12:52:40,896 - INFO - Obfuscation detected in webpack-59b3805372025b5f.js: ['eval_patterns', 'minification']
+2025-07-10 12:52:40,899 - INFO - Obfuscation detected in 8173-a28965e1a4750447.js: ['minification']
+2025-07-10 12:52:40,905 - INFO - Obfuscation detected in 51-d233dd1bc1034aff.js: ['eval_patterns', 'minification']
+2025-07-10 12:52:40,915 - INFO - Obfuscation detected in insight.min.js: ['obfuscator_io', 'string_encoding', 'minification']
+2025-07-10 12:52:40,969 - INFO - Obfuscation detected in app_52107819.js: ['obfuscator_io', 'string_encoding', 'eval_patterns', 'minification']
+2025-07-10 12:52:40,971 - INFO - Obfuscation detected in 2086-19cc457a9f864806.js: ['minification']
+2025-07-10 12:52:41,113 - INFO - Beautified with jsbeautifier: 39209d7c-db5d6daf05b7181d.js
+2025-07-10 12:52:41,113 - INFO - Processed: 39209d7c-db5d6daf05b7181d.js -> 39209d7c-db5d6daf05b7181d.deob.js
+2025-07-10 12:52:41,233 - INFO - Beautified with jsbeautifier: api_18793262.js
+2025-07-10 12:52:41,294 - INFO - Processed: api_18793262.js -> api_18793262.deob.js
+2025-07-10 12:52:41,403 - INFO - Beautified with jsbeautifier: webpack-59b3805372025b5f.js
+2025-07-10 12:52:41,415 - INFO - Beautified with jsbeautifier: 9081a741-b6df0ea9d9fbbbf0.js
+2025-07-10 12:52:41,484 - INFO - Beautified with jsbeautifier: 8173-a28965e1a4750447.js
+2025-07-10 12:52:41,496 - INFO - Processed: webpack-59b3805372025b5f.js -> webpack-59b3805372025b5f.deob.js
+2025-07-10 12:52:41,553 - INFO - Beautified with jsbeautifier: 51-d233dd1bc1034aff.js
+2025-07-10 12:52:41,564 - INFO - Processed: 9081a741-b6df0ea9d9fbbbf0.js -> 9081a741-b6df0ea9d9fbbbf0.deob.js
+2025-07-10 12:52:41,669 - INFO - Processed: 8173-a28965e1a4750447.js -> 8173-a28965e1a4750447.deob.js
+2025-07-10 12:52:41,903 - INFO - Processed: 51-d233dd1bc1034aff.js -> 51-d233dd1bc1034aff.deob.js
+2025-07-10 12:52:41,903 - INFO - Beautified with jsbeautifier: 2086-19cc457a9f864806.js
+2025-07-10 12:52:41,909 - INFO - Obfuscation detected in 1444-02039f1bca56a2b6.js: ['minification']
+2025-07-10 12:52:42,014 - INFO - Obfuscation detected in 804-faf85949eb850036.js: ['minification']
+2025-07-10 12:52:42,112 - INFO - Processed: 2086-19cc457a9f864806.js -> 2086-19cc457a9f864806.deob.js
+2025-07-10 12:52:42,168 - INFO - Beautified with jsbeautifier: insight.min.js
+2025-07-10 12:52:42,263 - INFO - Beautified with jsbeautifier: out-4.5.44.js
+2025-07-10 12:52:42,343 - INFO - Obfuscation detected in 229-6c661ccbeb82e929.js: ['minification']
+2025-07-10 12:52:42,372 - INFO - Obfuscation detected in fd9d1056-5ed0175c01188b45.js: ['obfuscator_io', 'string_encoding', 'minification']
+2025-07-10 12:52:42,373 - INFO - Beautified with jsbeautifier: 1444-02039f1bca56a2b6.js
+2025-07-10 12:52:42,496 - INFO - Processed: insight.min.js -> insight.min.deob.js
+2025-07-10 12:52:42,545 - INFO - Processed: out-4.5.44.js -> out-4.5.44.deob.js
+2025-07-10 12:52:42,608 - INFO - Obfuscation detected in main-app-7dc051ce221219f7.js: ['minification']
+2025-07-10 12:52:42,794 - INFO - Beautified with jsbeautifier: analytics.js
+2025-07-10 12:52:42,819 - INFO - Beautified with jsbeautifier: 229-6c661ccbeb82e929.js
+2025-07-10 12:52:42,819 - INFO - Processed: 1444-02039f1bca56a2b6.js -> 1444-02039f1bca56a2b6.deob.js
+2025-07-10 12:52:42,957 - INFO - Obfuscation detected in 9950-fd690983ea51d04e.js: ['minification']
+2025-07-10 12:52:43,011 - INFO - Obfuscation detected in c857e369-2f7de81f63fa1df7.js: ['obfuscator_io', 'string_encoding', 'eval_patterns', 'minification']
+2025-07-10 12:52:43,042 - INFO - Beautified with jsbeautifier: 804-faf85949eb850036.js
+2025-07-10 12:52:43,173 - INFO - Processed: analytics.js -> analytics.deob.js
+2025-07-10 12:52:43,217 - INFO - Processed: 229-6c661ccbeb82e929.js -> 229-6c661ccbeb82e929.deob.js
+2025-07-10 12:52:43,218 - INFO - Obfuscation detected in 5956-99ec510be794686c.js: ['minification']
+2025-07-10 12:52:43,224 - INFO - Beautified with jsbeautifier: nr-spa-1.293.0.min.js
+2025-07-10 12:52:43,236 - INFO - Beautified with jsbeautifier: main-app-7dc051ce221219f7.js
+2025-07-10 12:52:43,369 - INFO - Obfuscation detected in 9334-89b89cd6150598d4.js: ['eval_patterns', 'minification']
+2025-07-10 12:52:43,477 - INFO - Processed: 804-faf85949eb850036.js -> 804-faf85949eb850036.deob.js
+2025-07-10 12:52:43,744 - INFO - Beautified with jsbeautifier: 9950-fd690983ea51d04e.js
+2025-07-10 12:52:43,799 - INFO - Processed: nr-spa-1.293.0.min.js -> nr-spa-1.293.0.min.deob.js
+2025-07-10 12:52:43,824 - INFO - Processed: main-app-7dc051ce221219f7.js -> main-app-7dc051ce221219f7.deob.js
+2025-07-10 12:52:44,007 - INFO - Obfuscation detected in 4036-3bf1d497e9d063c1.js: ['minification']
+2025-07-10 12:52:44,020 - INFO - Beautified with jsbeautifier: 5956-99ec510be794686c.js
+2025-07-10 12:52:44,116 - INFO - Processed: 9950-fd690983ea51d04e.js -> 9950-fd690983ea51d04e.deob.js
+2025-07-10 12:52:44,155 - INFO - Obfuscation detected in 41ade5dc-8ce4c754f3112904.js: ['eval_patterns', 'minification']
+2025-07-10 12:52:44,182 - INFO - Obfuscation detected in 1582-74f25d01fc1621bc.js: ['obfuscator_io', 'minification']
+2025-07-10 12:52:44,460 - INFO - Obfuscation detected in 231-d41a88eeecf128cc.js: ['obfuscator_io', 'minification']
+2025-07-10 12:52:44,477 - INFO - Processed: 5956-99ec510be794686c.js -> 5956-99ec510be794686c.deob.js
+2025-07-10 12:52:44,863 - INFO - Obfuscation detected in 8222-d298fcb6b75f89be.js: ['obfuscator_io', 'minification']
+2025-07-10 12:52:44,972 - INFO - Obfuscation detected in 3678-e989d559dc300e74.js: ['minification']
+2025-07-10 12:52:45,081 - INFO - Beautified with jsbeautifier: 4036-3bf1d497e9d063c1.js
+2025-07-10 12:52:45,261 - INFO - Beautified with jsbeautifier: 9334-89b89cd6150598d4.js
+2025-07-10 12:52:45,543 - INFO - Processed: 4036-3bf1d497e9d063c1.js -> 4036-3bf1d497e9d063c1.deob.js
+2025-07-10 12:52:45,585 - INFO - Processed: 9334-89b89cd6150598d4.js -> 9334-89b89cd6150598d4.deob.js
+2025-07-10 12:52:45,690 - INFO - Obfuscation detected in a63740d3-c0a9972f03014a5c.js: ['minification']
+2025-07-10 12:52:45,713 - INFO - Beautified with jsbeautifier: paddle.js
+2025-07-10 12:52:45,713 - INFO - Beautified with jsbeautifier: 231-d41a88eeecf128cc.js
+2025-07-10 12:52:45,763 - INFO - Beautified with jsbeautifier: fd9d1056-5ed0175c01188b45.js
+2025-07-10 12:52:45,781 - INFO - Beautified with jsbeautifier: 3678-e989d559dc300e74.js
+2025-07-10 12:52:45,811 - INFO - Processed: paddle.js -> paddle.deob.js
+2025-07-10 12:52:45,836 - INFO - Beautified with jsbeautifier: 41ade5dc-8ce4c754f3112904.js
+2025-07-10 12:52:45,870 - INFO - Obfuscation detected in layout-55f585de71fd0904.js: ['minification']
+2025-07-10 12:52:45,885 - INFO - Processed: 231-d41a88eeecf128cc.js -> 231-d41a88eeecf128cc.deob.js
+2025-07-10 12:52:46,019 - INFO - Processed: fd9d1056-5ed0175c01188b45.js -> fd9d1056-5ed0175c01188b45.deob.js
+2025-07-10 12:52:46,019 - INFO - Beautified with jsbeautifier: c857e369-2f7de81f63fa1df7.js
+2025-07-10 12:52:46,032 - INFO - Processed: 3678-e989d559dc300e74.js -> 3678-e989d559dc300e74.deob.js
+2025-07-10 12:52:46,032 - INFO - Obfuscation detected in not-found-31bf4f0b491a9fa3.js: ['minification']
+2025-07-10 12:52:46,199 - INFO - Processed: 41ade5dc-8ce4c754f3112904.js -> 41ade5dc-8ce4c754f3112904.deob.js
+2025-07-10 12:52:46,271 - INFO - Obfuscation detected in error-e1fb17fb4250e263.js: ['minification']
+2025-07-10 12:52:46,400 - INFO - Beautified with jsbeautifier: 8222-d298fcb6b75f89be.js
+2025-07-10 12:52:46,475 - INFO - Processed: c857e369-2f7de81f63fa1df7.js -> c857e369-2f7de81f63fa1df7.deob.js
+2025-07-10 12:52:46,656 - INFO - Beautified with jsbeautifier: a63740d3-c0a9972f03014a5c.js
+2025-07-10 12:52:46,671 - INFO - Beautified with jsbeautifier: webworker_02820450.js
+2025-07-10 12:52:46,703 - INFO - Beautified with jsbeautifier: 1582-74f25d01fc1621bc.js
+2025-07-10 12:52:46,783 - INFO - Obfuscation detected in trusted-types-checker-efd8cf45ce422659c098993bfc62531b.js: ['minification']
+2025-07-10 12:52:46,795 - INFO - Beautified with jsbeautifier: not-found-31bf4f0b491a9fa3.js
+2025-07-10 12:52:46,814 - INFO - Processed: 8222-d298fcb6b75f89be.js -> 8222-d298fcb6b75f89be.deob.js
+2025-07-10 12:52:46,844 - INFO - Beautified with jsbeautifier: layout-55f585de71fd0904.js
+2025-07-10 12:52:46,938 - INFO - Processed: a63740d3-c0a9972f03014a5c.js -> a63740d3-c0a9972f03014a5c.deob.js
+2025-07-10 12:52:46,939 - INFO - Obfuscation detected in recaptcha__en.js: ['obfuscator_io', 'string_encoding', 'eval_patterns', 'minification']
+2025-07-10 12:52:46,944 - INFO - Processed: webworker_02820450.js -> webworker_02820450.deob.js
+2025-07-10 12:52:46,944 - INFO - Processed: 1582-74f25d01fc1621bc.js -> 1582-74f25d01fc1621bc.deob.js
+2025-07-10 12:52:46,944 - INFO - Beautified with jsbeautifier: error-e1fb17fb4250e263.js
+2025-07-10 12:52:46,977 - INFO - Beautified with jsbeautifier: trusted-types-checker-efd8cf45ce422659c098993bfc62531b.js
+2025-07-10 12:52:46,983 - INFO - Obfuscation detected in m-outer-15a2b40a058ddff1cffdb63779fe3de1.js: ['minification']
+2025-07-10 12:52:46,983 - INFO - Processed: not-found-31bf4f0b491a9fa3.js -> not-found-31bf4f0b491a9fa3.deob.js
+2025-07-10 12:52:47,075 - INFO - Processed: layout-55f585de71fd0904.js -> layout-55f585de71fd0904.deob.js
+2025-07-10 12:52:47,078 - INFO - Obfuscation detected in outer-logger-2f3264726454ad8247aadc6df61d886c.js: ['eval_patterns', 'minification']
+2025-07-10 12:52:47,223 - INFO - Obfuscation detected in controller-with-preconnect-176e7bfec430abfa931827620d3a888a.js: ['obfuscator_io', 'eval_patterns', 'minification']
+2025-07-10 12:52:47,315 - INFO - Processed: error-e1fb17fb4250e263.js -> error-e1fb17fb4250e263.deob.js
+2025-07-10 12:52:47,376 - INFO - Processed: trusted-types-checker-efd8cf45ce422659c098993bfc62531b.js -> trusted-types-checker-efd8cf45ce422659c098993bfc62531b.deob.js
+2025-07-10 12:52:47,387 - INFO - Obfuscation detected in shared-29d83e6dce5d23438c5f74a025ccf6d8.js: ['obfuscator_io', 'string_encoding', 'eval_patterns', 'minification']
+2025-07-10 12:52:47,406 - ERROR - Error processing highlight.js: [Errno 21] Is a directory: 'projects/app.letsdefend.io-20250710_125227/assets/ajax/libs/highlight.js'
+2025-07-10 12:52:47,431 - INFO - Beautified with jsbeautifier: gtm_77503017.js
+2025-07-10 12:52:47,543 - INFO - Beautified with jsbeautifier: m-outer-15a2b40a058ddff1cffdb63779fe3de1.js
+2025-07-10 12:52:47,699 - INFO - Obfuscation detected in highlight.min.js: ['string_encoding', 'minification']
+2025-07-10 12:52:47,790 - INFO - Processed: gtm_77503017.js -> gtm_77503017.deob.js
+2025-07-10 12:52:47,874 - INFO - Processed: m-outer-15a2b40a058ddff1cffdb63779fe3de1.js -> m-outer-15a2b40a058ddff1cffdb63779fe3de1.deob.js
+2025-07-10 12:52:48,481 - INFO - Beautified with jsbeautifier: outer-logger-2f3264726454ad8247aadc6df61d886c.js
+2025-07-10 12:52:48,542 - INFO - Processed: outer-logger-2f3264726454ad8247aadc6df61d886c.js -> outer-logger-2f3264726454ad8247aadc6df61d886c.deob.js
+2025-07-10 12:52:48,598 - INFO - Beautified with jsbeautifier: highlight.min.js
+2025-07-10 12:52:48,604 - INFO - Processed: highlight.min.js -> highlight.min.deob.js
+2025-07-10 12:52:51,621 - INFO - Beautified with jsbeautifier: shared-29d83e6dce5d23438c5f74a025ccf6d8.js
+2025-07-10 12:52:51,657 - INFO - Processed: shared-29d83e6dce5d23438c5f74a025ccf6d8.js -> shared-29d83e6dce5d23438c5f74a025ccf6d8.deob.js
+2025-07-10 12:52:53,460 - INFO - Beautified with jsbeautifier: app_52107819.js
+2025-07-10 12:52:53,485 - INFO - Processed: app_52107819.js -> app_52107819.deob.js
+2025-07-10 12:52:54,899 - INFO - Beautified with jsbeautifier: controller-with-preconnect-176e7bfec430abfa931827620d3a888a.js
+2025-07-10 12:52:54,912 - INFO - Processed: controller-with-preconnect-176e7bfec430abfa931827620d3a888a.js -> controller-with-preconnect-176e7bfec430abfa931827620d3a888a.deob.js
+2025-07-10 12:52:55,217 - INFO - Beautified with jsbeautifier: recaptcha__en.js
+2025-07-10 12:52:55,217 - INFO - Processed: recaptcha__en.js -> recaptcha__en.deob.js
+2025-07-10 12:52:55,219 - INFO - JS/TS processing complete. 41 files deobfuscated/beautified.
+2025-07-10 12:52:55,219 - INFO - Extracting source maps...
+2025-07-10 12:52:55,236 - INFO - Found 1 source map references in paddle.js
+2025-07-10 12:52:55,237 - ERROR - Error downloading sourcemap paddle.js.map: projects/app.letsdefend.io-20250710_125227/assets/paddle.js.map
+2025-07-10 12:52:55,260 - ERROR - Error processing highlight.js: [Errno 21] Is a directory: 'projects/app.letsdefend.io-20250710_125227/assets/ajax/libs/highlight.js'
+2025-07-10 12:52:55,262 - INFO - Source map summary saved to: projects/app.letsdefend.io-20250710_125227/sourcemaps/mapping.json
+2025-07-10 12:52:55,262 - INFO - Source map extraction complete. 0 sources extracted.
+2025-07-10 12:52:55,263 - INFO - Detecting frameworks...
+2025-07-10 12:52:55,313 - INFO - Framework detection: {'React': True, 'Angular': True, 'Vue': True}
+2025-07-10 12:52:55,313 - INFO - Generating report...
+2025-07-10 12:52:55,313 - INFO - Report written to projects/app.letsdefend.io-20250710_125227/report/report.md
+2025-07-10 12:52:55,313 - INFO - Analysis complete.

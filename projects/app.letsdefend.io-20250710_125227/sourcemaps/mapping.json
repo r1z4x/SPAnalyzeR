@@ -1,0 +1,303 @@
+{
+  "total_files_processed": 42,
+  "files_with_sourcemaps": 0,
+  "total_sourcemaps_found": 0,
+  "total_sources_extracted": 0,
+  "processing_date": "2025-07-10T12:52:55.261249",
+  "results": [
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/out-4.5.44.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/analytics.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/gtm_77503017.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/nr-spa-1.293.0.min.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/js/app_52107819.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/paddle/paddle.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/recaptcha/api_18793262.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/li.lms-analytics/insight.min.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/8173-a28965e1a4750447.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/9081a741-b6df0ea9d9fbbbf0.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/51-d233dd1bc1034aff.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/39209d7c-db5d6daf05b7181d.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/webpack-59b3805372025b5f.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/2086-19cc457a9f864806.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/1444-02039f1bca56a2b6.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/804-faf85949eb850036.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/fd9d1056-5ed0175c01188b45.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/229-6c661ccbeb82e929.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/main-app-7dc051ce221219f7.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/c857e369-2f7de81f63fa1df7.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/9950-fd690983ea51d04e.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/9334-89b89cd6150598d4.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/5956-99ec510be794686c.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/4036-3bf1d497e9d063c1.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/41ade5dc-8ce4c754f3112904.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/1582-74f25d01fc1621bc.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/231-d41a88eeecf128cc.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/3678-e989d559dc300e74.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/8222-d298fcb6b75f89be.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/a63740d3-c0a9972f03014a5c.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/app/layout-55f585de71fd0904.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/app/not-found-31bf4f0b491a9fa3.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/_next/static/chunks/app/error-e1fb17fb4250e263.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/recaptcha/api2/webworker_02820450.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/recaptcha/releases/_cn5mBoBXIA0_T7xBjxkUqUA/recaptcha__en.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/v3/fingerprinted/js/trusted-types-checker-efd8cf45ce422659c098993bfc62531b.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/v3/fingerprinted/js/outer-logger-2f3264726454ad8247aadc6df61d886c.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/v3/fingerprinted/js/controller-with-preconnect-176e7bfec430abfa931827620d3a888a.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/v3/fingerprinted/js/shared-29d83e6dce5d23438c5f74a025ccf6d8.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/ajax/libs/highlight.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": "[Errno 21] Is a directory: 'projects/app.letsdefend.io-20250710_125227/assets/ajax/libs/highlight.js'",
+      "sourcemaps": []
+    },
+    {
+      "file": "projects/app.letsdefend.io-20250710_125227/assets/ajax/libs/highlight.js/8.4/highlight.min.js",
+      "sourcemaps_found": 0,
+      "sources_extracted": 0,
+      "error": null,
+      "sourcemaps": []
+    }
+  ]
+}

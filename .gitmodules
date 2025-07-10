@@ -1,0 +1,3 @@
+[submodule "secrets-patterns-db"]
+	path = secrets-patterns-db
+	url = git@github.com:mazen160/secrets-patterns-db.git
